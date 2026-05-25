@@ -1,0 +1,25 @@
+model,players,seed,game,seat,colour,rank,won,pins,distance,score,total_moves,my_moves,result
+search46seatbase85,4,20260625,1,0,yellow,1,1,10,0,2400.0,169,43,yellow wins
+search46seatbase85,4,20260625,2,1,blue,1,1,10,0,2400.0,166,42,blue wins
+search46seatbase85,4,20260625,3,2,lawn green,4,0,7,9,1082.0,152,38,gray0 wins
+search46seatbase85,4,20260625,4,3,purple,4,0,7,10,1080.0,167,41,yellow wins
+search46seatbase85,4,20260625,5,0,yellow,1,1,10,0,2400.0,157,40,yellow wins
+search46seatbase85,4,20260625,6,1,purple,4,0,7,22,1056.0,144,36,gray0 wins
+search46seatbase85,6,20260625,1,0,red,3,0,7,15,1070.0,212,36,lawn green wins
+search46seatbase85,6,20260625,2,1,lawn green,3,0,8,4,1192.0,193,32,red wins
+search46seatbase85,6,20260625,3,2,yellow,4,0,8,8,1184.0,211,35,red wins
+search46seatbase85,6,20260625,4,3,blue,2,0,8,6,1188.0,174,29,purple wins
+search46seatbase85,6,20260625,5,4,gray0,6,0,7,15,1070.0,188,31,lawn green wins
+search46seatbase85,6,20260625,6,5,purple,1,1,10,0,2400.0,198,33,purple wins
+search46seatcorridor85,4,20260625,1,0,yellow,3,0,7,10,1080.0,171,43,lawn green wins
+search46seatcorridor85,4,20260625,2,1,blue,2,0,9,6,1288.0,149,37,red wins
+search46seatcorridor85,4,20260625,3,2,lawn green,3,0,8,10,1180.0,153,38,yellow wins
+search46seatcorridor85,4,20260625,4,3,purple,4,0,7,18,1064.0,166,41,blue wins
+search46seatcorridor85,4,20260625,5,0,yellow,3,0,7,10,1080.0,171,43,lawn green wins
+search46seatcorridor85,4,20260625,6,1,purple,4,0,8,14,1172.0,164,41,gray0 wins
+search46seatcorridor85,6,20260625,1,0,red,6,0,6,23,954.0,221,37,gray0 wins
+search46seatcorridor85,6,20260625,2,1,lawn green,6,0,5,28,844.0,183,31,yellow wins
+search46seatcorridor85,6,20260625,3,2,yellow,2,0,9,1,1298.0,209,35,gray0 wins
+search46seatcorridor85,6,20260625,4,3,blue,2,0,8,6,1188.0,174,29,purple wins
+search46seatcorridor85,6,20260625,5,4,gray0,6,0,6,27,946.0,187,31,red wins
+search46seatcorridor85,6,20260625,6,5,purple,1,1,10,0,2400.0,198,33,purple wins

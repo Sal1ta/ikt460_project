@@ -1,0 +1,15 @@
+stage,opponent,win_rate
+Initial training,EasyRandom,85.0
+Initial training,Random,15.0
+Initial training,Greedy,5.0
+Endgame tuned,EasyRandom,100.0
+Endgame tuned,Random,55.0
+Endgame tuned,Greedy,94.8
+Endgame tuned,Minimax d2,100.0
+Endgame tuned,Minimax d3,58.3
+Final agent,EasyRandom,100.0
+Final agent,Random,100.0
+Final agent,Greedy,95.8
+Final agent,Minimax d2,100.0
+Final agent,Minimax d3,66.7
+Final agent,FastGreedy,99.0
